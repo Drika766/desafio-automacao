@@ -17,9 +17,10 @@ GitHub API: Para validação de testes na API REST.
  ├── 📄 package-lock.json  
  ├── 📄 .gitignore  
  ├── 📄 README.md  
+
 🛠️ Configuração do Ambiente
 Pré-requisitos
-Node.js instalado (versão 14 ou superior)
+Node.js instalado 
 Git instalado
 Navegador compatível (Chrome, Edge, Firefox)
 Instalação
