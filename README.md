@@ -32,6 +32,7 @@ Acesse a pasta do projeto:
 cd desafio-automacao
 Instale as dependências:
 npm install
+
 ▶️ Executando os Testes
 Front-end (Testes na NEXDOM)
 Para rodar os testes no modo interativo:
@@ -43,6 +44,7 @@ Para rodar os testes no terminal:
 npx cypress run
 API (Testes na GitHub API)
 Certifique-se de configurar um Personal Access Token (PAT) do GitHub.
+
 
 Execute os testes da API com:
 npx cypress run --spec cypress/e2e/github_api.spec.js
@@ -59,5 +61,5 @@ npx cypress run --spec cypress/e2e/github_api.spec.js
 ✅ Confirmar que o repositório foi removido.
 
 Adriana
-📧 adriaadefatimamartins30@gmail.com
+📧 adrianadefatimamartins30@gmail.com
 🔗 https://www.linkedin.com/in/adriana-de-f%C3%A1tima-martins-6903a538/
